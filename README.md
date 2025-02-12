@@ -11,7 +11,7 @@
   - Pontos Uniformemente Distribuídos
   - Círculo de Pontos (Benchmark)
 - 
-- Plotagem e atualizaçã automática dos gráficos para cada 10 gerações
+- Plotagem e atualização automática dos gráficos para cada 10 gerações
 
 ### Acesso ao Projeto:
 - Para acessar o projeto, basta baixar a versao da release no computador e executar o arquivo Projeto_Genetica.py
