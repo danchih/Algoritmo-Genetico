@@ -10,7 +10,6 @@
 - Calculo em dois cenários diferente:
   - Pontos Uniformemente Distribuídos
   - Círculo de Pontos (Benchmark)
-- 
 - Plotagem e atualização automática dos gráficos para cada 10 gerações
 
 ### Acesso ao Projeto:
